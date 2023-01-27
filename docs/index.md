@@ -1,15 +1,13 @@
-# Welcome to MkDocs
+# Welcome to thegump.github.io (github.com/thegump)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Splunk for Dell Telemetry
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
+* `Splunk HTTP Event Collector` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-## Project layout
+## Docker Pipeline for Dell Telemetry
 
     mkdocs.yml    # The configuration file.
     docs/
